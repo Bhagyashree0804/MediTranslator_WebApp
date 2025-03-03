@@ -36,6 +36,10 @@ A real-time multilingual translation application for healthcare providers and pa
    ```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Deployed Web App Link
+
+1. Visit [https://meditranslator-one-chi.vercel.app] in your browser
+
 ## Usage Guide
 
 1. Select your source and target languages from the dropdown menus
